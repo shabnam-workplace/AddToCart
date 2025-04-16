@@ -13,7 +13,12 @@ This is a simple and responsive React-based e-commerce website featuring a produ
 
 📱 Fully responsive design with Bootstrap
 
-⭐ FontAwesome icons for better UX
+⭐ FontAwesome icons for better 
+
+📸 Screenshots
+![Screenshot 2025-04-16 190033](https://github.com/user-attachments/assets/724c3f2a-5701-4baa-aa87-93c5922001f9)
+
+
 
 🛠️ Technologies Used
 React – Frontend library
@@ -36,6 +41,7 @@ You can use local data or fetch products from an API like FakeStoreAPI.
 Bootstrap
 
 FontAwesome
+
 
 React Router
 
